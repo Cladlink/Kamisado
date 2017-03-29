@@ -1,0 +1,7 @@
+.idea
+out
+Supprimerait Kamisado.iml
+BDD_ID.java
+insertBDD.sql
+BDDManager.java
+src/BDD_ID.java
